@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "com.example.kumail.game.app-merged_res-8:/drawable_male.png.flat",
+        "source": "com.example.kumail.game.app-main-10:/drawable/male.png"
+    },
+    {
+        "merged": "com.example.kumail.game.app-merged_res-8:/drawable_replay.png.flat",
+        "source": "com.example.kumail.game.app-main-10:/drawable/replay.png"
+    },
+    {
+        "merged": "com.example.kumail.game.app-merged_res-8:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.kumail.game.app-main-10:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.kumail.game.app-merged_res-8:/drawable_ladder1.png.flat",
+        "source": "com.example.kumail.game.app-main-10:/drawable/ladder1.png"
+    },
+    {
+        "merged": "com.example.kumail.game.app-merged_res-8:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.kumail.game.app-main-10:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.kumail.game.app-merged_res-8:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.kumail.game.app-main-10:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.kumail.game.app-merged_res-8:/drawable_background.jpg.flat",
+        "source": "com.example.kumail.game.app-main-10:/drawable/background.jpg"
+    },
+    {
+        "merged": "com.example.kumail.game.app-merged_res-8:/drawable_play.png.flat",
+        "source": "com.example.kumail.game.app-main-10:/drawable/play.png"
+    },
+    {
+        "merged": "com.example.kumail.game.app-merged_res-8:/drawable_snake2.png.flat",
+        "source": "com.example.kumail.game.app-main-10:/drawable/snake2.png"
+    },
+    {
+        "merged": "com.example.kumail.game.app-merged_res-8:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.kumail.game.app-main-10:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.kumail.game.app-merged_res-8:/layout_panel.xml.flat",
+        "source": "com.example.kumail.game.app-main-10:/layout/panel.xml"
+    },
+    {
+        "merged": "com.example.kumail.game.app-merged_res-8:/drawable_snake3.png.flat",
+        "source": "com.example.kumail.game.app-main-10:/drawable/snake3.png"
+    },
+    {
+        "merged": "com.example.kumail.game.app-merged_res-8:/drawable_snake1.png.flat",
+        "source": "com.example.kumail.game.app-main-10:/drawable/snake1.png"
+    },
+    {
+        "merged": "com.example.kumail.game.app-merged_res-8:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.kumail.game.app-main-10:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.kumail.game.app-merged_res-8:/layout_activity_main.xml.flat",
+        "source": "com.example.kumail.game.app-main-10:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.kumail.game.app-merged_res-8:/drawable_female.png.flat",
+        "source": "com.example.kumail.game.app-main-10:/drawable/female.png"
+    }
+]

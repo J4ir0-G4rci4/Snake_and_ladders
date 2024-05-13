@@ -1,0 +1,127 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\jtgarcia\AndroidStudioProjects\Snakes_and_Ladders-master\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\jtgarcia\AndroidStudioProjects\Snakes_and_Ladders-master\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\jtgarcia\AndroidStudioProjects\Snakes_and_Ladders-master\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\jtgarcia\AndroidStudioProjects\Snakes_and_Ladders-master\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:design:25.0.1] C:\Users\jtgarcia\.gradle\caches\transforms-3\8e5f60bbf624b0992cf1be21a6c32cdf\transformed\design-25.0.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\jtgarcia\.gradle\caches\transforms-3\2d4824ada69558489935155d7f19baed\transformed\appcompat-v7-25.0.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:transition:25.0.1] C:\Users\jtgarcia\.gradle\caches\transforms-3\e83225ffc0b2165c78b8435f3ba891c2\transformed\transition-25.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\jtgarcia\.gradle\caches\transforms-3\d734291266b3ecf8c67c2cfc0ee6fd4e\transformed\support-v4-25.0.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\jtgarcia\.gradle\caches\transforms-3\c08602bb90e1e05f03f7484c77f5b82b\transformed\animated-vector-drawable-25.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\jtgarcia\.gradle\caches\transforms-3\fc60da68dc961754d027fd19e49df26e\transformed\support-vector-drawable-25.0.1\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:recyclerview-v7:25.0.1] C:\Users\jtgarcia\.gradle\caches\transforms-3\e605fe30de3d87567235f0728fe09309\transformed\recyclerview-v7-25.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\jtgarcia\.gradle\caches\transforms-3\d3bf070c23e6a5375623308230fd394a\transformed\support-fragment-25.0.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\jtgarcia\.gradle\caches\transforms-3\2d96e985d02608a33e5af0189146db4b\transformed\support-media-compat-25.0.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\jtgarcia\.gradle\caches\transforms-3\3bb2d20d8076d0e42aa81b696e65d40e\transformed\support-core-utils-25.0.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\jtgarcia\.gradle\caches\transforms-3\6c091d3715d6be17dda976ffc5fa784a\transformed\support-core-ui-25.0.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\jtgarcia\.gradle\caches\transforms-3\8bc029871bea6ce9d040320c032cf921\transformed\support-compat-25.0.1\AndroidManifest.xml:17:1-27:12
+INJECTED from C:\Users\jtgarcia\AndroidStudioProjects\Snakes_and_Ladders-master\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\jtgarcia\AndroidStudioProjects\Snakes_and_Ladders-master\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\jtgarcia\AndroidStudioProjects\Snakes_and_Ladders-master\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		INJECTED from C:\Users\jtgarcia\AndroidStudioProjects\Snakes_and_Ladders-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jtgarcia\AndroidStudioProjects\Snakes_and_Ladders-master\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\jtgarcia\AndroidStudioProjects\Snakes_and_Ladders-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\jtgarcia\AndroidStudioProjects\Snakes_and_Ladders-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jtgarcia\AndroidStudioProjects\Snakes_and_Ladders-master\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\jtgarcia\AndroidStudioProjects\Snakes_and_Ladders-master\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\jtgarcia\AndroidStudioProjects\Snakes_and_Ladders-master\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\jtgarcia\AndroidStudioProjects\Snakes_and_Ladders-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jtgarcia\AndroidStudioProjects\Snakes_and_Ladders-master\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\jtgarcia\AndroidStudioProjects\Snakes_and_Ladders-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\jtgarcia\AndroidStudioProjects\Snakes_and_Ladders-master\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\jtgarcia\AndroidStudioProjects\Snakes_and_Ladders-master\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:design:25.0.1] C:\Users\jtgarcia\.gradle\caches\transforms-3\8e5f60bbf624b0992cf1be21a6c32cdf\transformed\design-25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:design:25.0.1] C:\Users\jtgarcia\.gradle\caches\transforms-3\8e5f60bbf624b0992cf1be21a6c32cdf\transformed\design-25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\jtgarcia\.gradle\caches\transforms-3\2d4824ada69558489935155d7f19baed\transformed\appcompat-v7-25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\jtgarcia\.gradle\caches\transforms-3\2d4824ada69558489935155d7f19baed\transformed\appcompat-v7-25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:transition:25.0.1] C:\Users\jtgarcia\.gradle\caches\transforms-3\e83225ffc0b2165c78b8435f3ba891c2\transformed\transition-25.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:transition:25.0.1] C:\Users\jtgarcia\.gradle\caches\transforms-3\e83225ffc0b2165c78b8435f3ba891c2\transformed\transition-25.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\jtgarcia\.gradle\caches\transforms-3\d734291266b3ecf8c67c2cfc0ee6fd4e\transformed\support-v4-25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\jtgarcia\.gradle\caches\transforms-3\d734291266b3ecf8c67c2cfc0ee6fd4e\transformed\support-v4-25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\jtgarcia\.gradle\caches\transforms-3\c08602bb90e1e05f03f7484c77f5b82b\transformed\animated-vector-drawable-25.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\jtgarcia\.gradle\caches\transforms-3\c08602bb90e1e05f03f7484c77f5b82b\transformed\animated-vector-drawable-25.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\jtgarcia\.gradle\caches\transforms-3\fc60da68dc961754d027fd19e49df26e\transformed\support-vector-drawable-25.0.1\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\jtgarcia\.gradle\caches\transforms-3\fc60da68dc961754d027fd19e49df26e\transformed\support-vector-drawable-25.0.1\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\jtgarcia\.gradle\caches\transforms-3\d3bf070c23e6a5375623308230fd394a\transformed\support-fragment-25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\jtgarcia\.gradle\caches\transforms-3\d3bf070c23e6a5375623308230fd394a\transformed\support-fragment-25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\jtgarcia\.gradle\caches\transforms-3\2d96e985d02608a33e5af0189146db4b\transformed\support-media-compat-25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\jtgarcia\.gradle\caches\transforms-3\2d96e985d02608a33e5af0189146db4b\transformed\support-media-compat-25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\jtgarcia\.gradle\caches\transforms-3\3bb2d20d8076d0e42aa81b696e65d40e\transformed\support-core-utils-25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\jtgarcia\.gradle\caches\transforms-3\3bb2d20d8076d0e42aa81b696e65d40e\transformed\support-core-utils-25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\jtgarcia\.gradle\caches\transforms-3\6c091d3715d6be17dda976ffc5fa784a\transformed\support-core-ui-25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\jtgarcia\.gradle\caches\transforms-3\6c091d3715d6be17dda976ffc5fa784a\transformed\support-core-ui-25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\jtgarcia\.gradle\caches\transforms-3\8bc029871bea6ce9d040320c032cf921\transformed\support-compat-25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\jtgarcia\.gradle\caches\transforms-3\8bc029871bea6ce9d040320c032cf921\transformed\support-compat-25.0.1\AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from C:\Users\jtgarcia\AndroidStudioProjects\Snakes_and_Ladders-master\app\src\main\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from C:\Users\jtgarcia\AndroidStudioProjects\Snakes_and_Ladders-master\app\src\main\AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from C:\Users\jtgarcia\AndroidStudioProjects\Snakes_and_Ladders-master\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\jtgarcia\AndroidStudioProjects\Snakes_and_Ladders-master\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\jtgarcia\AndroidStudioProjects\Snakes_and_Ladders-master\app\src\main\AndroidManifest.xml:10:9-40
+activity#com.example.kumail.game.GameManager
+ADDED from C:\Users\jtgarcia\AndroidStudioProjects\Snakes_and_Ladders-master\app\src\main\AndroidManifest.xml:11:9-18:20
+	android:exported
+		ADDED from C:\Users\jtgarcia\AndroidStudioProjects\Snakes_and_Ladders-master\app\src\main\AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from C:\Users\jtgarcia\AndroidStudioProjects\Snakes_and_Ladders-master\app\src\main\AndroidManifest.xml:11:19-46
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\jtgarcia\AndroidStudioProjects\Snakes_and_Ladders-master\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\jtgarcia\AndroidStudioProjects\Snakes_and_Ladders-master\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\jtgarcia\AndroidStudioProjects\Snakes_and_Ladders-master\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\jtgarcia\AndroidStudioProjects\Snakes_and_Ladders-master\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\jtgarcia\AndroidStudioProjects\Snakes_and_Ladders-master\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\jtgarcia\AndroidStudioProjects\Snakes_and_Ladders-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\jtgarcia\AndroidStudioProjects\Snakes_and_Ladders-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\jtgarcia\AndroidStudioProjects\Snakes_and_Ladders-master\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:25.0.1] C:\Users\jtgarcia\.gradle\caches\transforms-3\8e5f60bbf624b0992cf1be21a6c32cdf\transformed\design-25.0.1\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.0.1] C:\Users\jtgarcia\.gradle\caches\transforms-3\8e5f60bbf624b0992cf1be21a6c32cdf\transformed\design-25.0.1\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\jtgarcia\.gradle\caches\transforms-3\2d4824ada69558489935155d7f19baed\transformed\appcompat-v7-25.0.1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\jtgarcia\.gradle\caches\transforms-3\2d4824ada69558489935155d7f19baed\transformed\appcompat-v7-25.0.1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:transition:25.0.1] C:\Users\jtgarcia\.gradle\caches\transforms-3\e83225ffc0b2165c78b8435f3ba891c2\transformed\transition-25.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.0.1] C:\Users\jtgarcia\.gradle\caches\transforms-3\e83225ffc0b2165c78b8435f3ba891c2\transformed\transition-25.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\jtgarcia\.gradle\caches\transforms-3\d734291266b3ecf8c67c2cfc0ee6fd4e\transformed\support-v4-25.0.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\jtgarcia\.gradle\caches\transforms-3\d734291266b3ecf8c67c2cfc0ee6fd4e\transformed\support-v4-25.0.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\jtgarcia\.gradle\caches\transforms-3\c08602bb90e1e05f03f7484c77f5b82b\transformed\animated-vector-drawable-25.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\jtgarcia\.gradle\caches\transforms-3\c08602bb90e1e05f03f7484c77f5b82b\transformed\animated-vector-drawable-25.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\jtgarcia\.gradle\caches\transforms-3\fc60da68dc961754d027fd19e49df26e\transformed\support-vector-drawable-25.0.1\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\jtgarcia\.gradle\caches\transforms-3\fc60da68dc961754d027fd19e49df26e\transformed\support-vector-drawable-25.0.1\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.0.1] C:\Users\jtgarcia\.gradle\caches\transforms-3\e605fe30de3d87567235f0728fe09309\transformed\recyclerview-v7-25.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.0.1] C:\Users\jtgarcia\.gradle\caches\transforms-3\e605fe30de3d87567235f0728fe09309\transformed\recyclerview-v7-25.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\jtgarcia\.gradle\caches\transforms-3\d3bf070c23e6a5375623308230fd394a\transformed\support-fragment-25.0.1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\jtgarcia\.gradle\caches\transforms-3\d3bf070c23e6a5375623308230fd394a\transformed\support-fragment-25.0.1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\jtgarcia\.gradle\caches\transforms-3\2d96e985d02608a33e5af0189146db4b\transformed\support-media-compat-25.0.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\jtgarcia\.gradle\caches\transforms-3\2d96e985d02608a33e5af0189146db4b\transformed\support-media-compat-25.0.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\jtgarcia\.gradle\caches\transforms-3\3bb2d20d8076d0e42aa81b696e65d40e\transformed\support-core-utils-25.0.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\jtgarcia\.gradle\caches\transforms-3\3bb2d20d8076d0e42aa81b696e65d40e\transformed\support-core-utils-25.0.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\jtgarcia\.gradle\caches\transforms-3\6c091d3715d6be17dda976ffc5fa784a\transformed\support-core-ui-25.0.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\jtgarcia\.gradle\caches\transforms-3\6c091d3715d6be17dda976ffc5fa784a\transformed\support-core-ui-25.0.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\jtgarcia\.gradle\caches\transforms-3\8bc029871bea6ce9d040320c032cf921\transformed\support-compat-25.0.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\jtgarcia\.gradle\caches\transforms-3\8bc029871bea6ce9d040320c032cf921\transformed\support-compat-25.0.1\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\jtgarcia\AndroidStudioProjects\Snakes_and_Ladders-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\jtgarcia\AndroidStudioProjects\Snakes_and_Ladders-master\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.0.1] C:\Users\jtgarcia\.gradle\caches\transforms-3\8e5f60bbf624b0992cf1be21a6c32cdf\transformed\design-25.0.1\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\jtgarcia\AndroidStudioProjects\Snakes_and_Ladders-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jtgarcia\AndroidStudioProjects\Snakes_and_Ladders-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jtgarcia\AndroidStudioProjects\Snakes_and_Ladders-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\jtgarcia\AndroidStudioProjects\Snakes_and_Ladders-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jtgarcia\AndroidStudioProjects\Snakes_and_Ladders-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jtgarcia\AndroidStudioProjects\Snakes_and_Ladders-master\app\src\main\AndroidManifest.xml
