@@ -1,0 +1,30 @@
+R_DEF: Internal format may change without notice
+local
+color colorAccent
+color colorPrimary
+color colorPrimaryDark
+dimen activity_horizontal_margin
+dimen activity_vertical_margin
+drawable background
+drawable female
+drawable ladder1
+drawable male
+drawable play
+drawable replay
+drawable snake1
+drawable snake2
+drawable snake3
+id btnDice
+id btnPlay
+id imageView
+id imageView2
+id level
+id player_win
+id replay
+id textView
+id textView2
+layout activity_main
+layout panel
+mipmap ic_launcher
+string app_name
+style AppTheme
